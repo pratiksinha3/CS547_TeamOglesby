@@ -8,7 +8,7 @@ Oglesby
 - Milestone 4 Part I contains the code of the shallow Neural Networks
 - Milestone 4 Part II contains the code of the DNN and CNN
 
-You can find the presenation slides [HERE](DeepDivePresentation.pdf).
+You can find the presenation slides [HERE](DeepDivePresentation.pdf) and the Google Drive folder [HERE](https://drive.google.com/drive/folders/1aTw7J2q4nMLyWLJIUm2HcnqFSgGwUIBB?usp=sharing).
 
 ### Team Members
 - Pallav Ranjan
