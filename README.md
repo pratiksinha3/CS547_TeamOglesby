@@ -3,6 +3,11 @@
 ### Team Name
 Oglesby
 
+### Code Notebooks
+- Milestone 4 Baseline contains the Linear Regression baseline
+- Milestone 4 Part I contains the code of the shallow Neural Networks
+- Milestone 4 Part II contains the code of the DNN and CNN
+
 ### Team Members
 - Pallav Ranjan
 - Dimitrios Bralios
